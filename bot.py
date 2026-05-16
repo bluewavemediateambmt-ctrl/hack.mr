@@ -149,7 +149,7 @@ def lookup(m):
             m.chat.id, msg.message_id)
 
     try:
-        data = requests.get(API + number).json()
+        data = requests.get(https://black-herix-num-lookup.vercel.app/api/lookup?number= {number}).json()
 
         update_points(uid, u[2] - 1)
 
