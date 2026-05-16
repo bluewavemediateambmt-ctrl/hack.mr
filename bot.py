@@ -5,11 +5,11 @@ import time
 from db import *
 
 TOKEN = "8854612812:AAGCiJfGiyGFToo8WUimE2EVbR267g5rxOM"
-ADMIN_ID = 123456789
+ADMIN_ID = 7276206449
 
 API = "https://yourdomain.com/subapi.php?number="
 
-CHANNELS = ["@channel1", "@channel2", "@channel3"]
+CHANNELS = ["@unknown_owner_info", "@bmt_earning", "@mbtcyber"]
 
 bot = telebot.TeleBot(TOKEN)
 
