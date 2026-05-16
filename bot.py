@@ -7,7 +7,7 @@ from db import *
 TOKEN = "8854612812:AAGCiJfGiyGFToo8WUimE2EVbR267g5rxOM"
 ADMIN_ID = 7276206449
 
-API = "https://yourdomain.com/subapi.php?number="
+API = "https://black-herix-num-lookup.vercel.app/api/lookup?number="
 
 CHANNELS = ["@unknown_owner_info", "@bmt_earning", "@mbtcyber"]
 
